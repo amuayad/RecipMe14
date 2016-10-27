@@ -1,2 +1,11 @@
-Question to be ask of Cooks
+I(daniel) have a few friend that work as cooks, so I was thinking that I would ask them what they want from a app aboutr cooking, I how ever cant think of any good questions.
+
+Question to be asked
+	-Would you want to have review of respice on the app?
+	-Would you want to be able to search be what ingreadens you have?
+	-Would you use a app on you phone to find respices?
+	-If yes, what app do you use and why?
+	-Would you like to see what the dish should look like?
+	-How would you like to search all the dishs?
+	-What kind of featcher would you want in this app?
 	-
