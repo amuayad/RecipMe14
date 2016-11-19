@@ -17,7 +17,7 @@ If you already have cloned the project to your local drive then you need to foll
 to avoid merge conflicts (when two or more people are working on the project at the same time
 and editing the same line or do similar activities). 
 
-1. Fetch and merge changes from the remote					<img src="README-img/git-fetch.png" title="retrieve the project from github"> 
+1. Fetch and merge changes from the remote					<img src="README-img/git-fetch.PNG" title="retrieve the project from github"> 
 										<img src="README-img/git-merge.png" title="merge the branch to your local branch master">	
 2. Create a branch to work on a new project feature				<img src="README-img/branch.png"    title="Create a new branch">
 3. Develop the feature on your branch and commit your work			<img src="README-img/
