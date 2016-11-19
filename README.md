@@ -17,11 +17,17 @@ If you already have cloned the project to your local drive then you need to foll
 to avoid merge conflicts (when two or more people are working on the project at the same time
 and editing the same line or do similar activities). 
 
-1. Fetch and merge changes from the remote					<img src="README-img/git-fetch.PNG" title="retrieve the project from github"> 
-										<img src="README-img/git-merge.png" title="merge the branch to your local branch master">	
-2. Create a branch to work on a new project feature				<img src="README-img/branch.png"    title="Create a new branch">
-3. Develop the feature on your branch and commit your work			<img src="README-img/
-4. Fetch and merge from the remote again					<img src="README-img/git-fetch.png">
-   (in case new commits were made while you were working 
-    but only merge if there's new changes from the github repository)		<img src="README-img/git-merge.png">
-5. Push your branch up to the remote for review					<img src="README-img/get-push.png" title="push changes to the main repository">
+1. Fetch and merge changes from the remote <br>
+<img src="README-img/git-fetch.PNG" title="retrieve the project from github"><br>
+<img src="README-img/git-merge.PNG">	
+2. Create a branch to work on a new project feature<br>
+<img src="README-img/branch.PNG"    title="Create a new branch"><br>
+3. Develop the feature on your branch and commit your work<br>
+<img src="README-img/git-commit.PNG">
+4. Fetch and merge from the remote again <br>
+   (in case new commits were made while you were working <br>
+    but only merge if there's new changes from the github repository) <br>
+    <img src="README-img/git-fetch.PNG"><br>
+    <img src="README-img/git-merge.PNG"><br>
+    5. Push your branch up to the remote for review <br>
+    <img src="README-img/git-push.PNG" title="push changes to the main repository"><br>
