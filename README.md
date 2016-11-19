@@ -18,16 +18,16 @@ to avoid merge conflicts (when two or more people are working on the project at 
 and editing the same line or do similar activities). 
 
 1. Fetch and merge changes from the remote <br>
-<img src="README-img/git-fetch.PNG" title="retrieve the project from github"><br>
-<img src="README-img/git-merge.PNG">	
+   <img src="README-img/git-fetch.PNG" height="25" title="retrieve the project from github"><br>
+   <img src="README-img/git-merge.PNG">	
 2. Create a branch to work on a new project feature<br>
-<img src="README-img/branch.PNG"    title="Create a new branch"><br>
+   <img src="README-img/branch.PNG" height="25" title="Create a new branch"><br>
 3. Develop the feature on your branch and commit your work<br>
-<img src="README-img/git-commit.PNG">
+   <img src="README-img/git-commit.PNG" height="30">
 4. Fetch and merge from the remote again <br>
-   (in case new commits were made while you were working <br>
-    but only merge if there's new changes from the github repository) <br>
-    <img src="README-img/git-fetch.PNG"><br>
-    <img src="README-img/git-merge.PNG"><br>
-    5. Push your branch up to the remote for review <br>
-    <img src="README-img/git-push.PNG" title="push changes to the main repository"><br>
+(in case new commits were made while you were working <br>
+but only merge if there's new changes from the github repository) <br>
+   <img src="README-img/git-fetch.PNG" height="25"><br>
+   <img src="README-img/git-merge.PNG" height="25"><br>
+5. Push your branch up to the remote for review <br>
+   <img src="README-img/git-push.PNG" height="25" title="push changes to the main repository"><br>
