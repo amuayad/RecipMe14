@@ -9,8 +9,10 @@ Tasks appointed to us during our last meeting on 19/10/2016:
 - Get new member of our group added to our Whatsapp group chat.  
 - Work on git to get used to it.
 
+------------------------------------
 READ THIS BEFORE MAKING CHANGES TO THE PROJECT
 ------------------------------------
+
 If you already have cloned the project to your local drive then you need to follow these steps
 to avoid merge conflicts (when two or more people are working on the project at the same time
 and editing the same line or do similar activities). 
